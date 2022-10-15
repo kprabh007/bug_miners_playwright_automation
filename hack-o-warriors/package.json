@@ -1,0 +1,18 @@
+{
+  "name": "hack-o-warriors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  },
+  "dependencies": {
+    "allure-playwright": "^2.0.0-beta.19",
+    "random-indian-name": "^1.0.0",
+    "sentencer": "^0.2.1"
+  }
+}
